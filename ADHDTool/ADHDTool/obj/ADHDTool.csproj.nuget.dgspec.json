@@ -26,7 +26,6 @@
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {},
           "https://nuget.devexpress.com/HMymrlNWUYfi7zol1kQhj2xp6qZeKmXdionitzLxAPjw31mkzW/api/": {},
           "https://pkgs.dev.azure.com/docugate-classic/_packaging/Docugate/nuget/v3/index.json": {},
